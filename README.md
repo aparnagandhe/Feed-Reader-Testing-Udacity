@@ -1,6 +1,6 @@
 # Udacity Feed reader app testing with Jasmine
 
-My Project - https://www.udacity.com/course/ud549
+[My Project](https://www.udacity.com/course/ud549)
 
 ## Notes on running
 
